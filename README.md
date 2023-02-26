@@ -1,5 +1,5 @@
 # pyui
-An easy to use pygame based gui creator. 
+An easy to use gui creator. (uses pygame to draw the ui)
 
 Installation
 
